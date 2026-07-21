@@ -1,0 +1,10 @@
+{
+  "show": "The Look Back",
+  "resize_percent": 50,
+  "jpg_quality": 90,
+  "thumbnail": {
+    "size": 144,
+    "match": ["host", "guest"],
+    "suffix": "-small"
+  }
+}

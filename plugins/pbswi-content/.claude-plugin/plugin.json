@@ -1,0 +1,8 @@
+{
+  "name": "pbswi-content",
+  "version": "1.0.0",
+  "description": "PBS Wisconsin \u2014 Content",
+  "bundled_skills": [
+    "process-graphics"
+  ]
+}

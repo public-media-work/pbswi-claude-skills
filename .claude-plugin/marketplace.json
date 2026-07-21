@@ -1,0 +1,19 @@
+{
+  "name": "public-media-work-marketplace",
+  "owner": {
+    "name": "Mark Riechers",
+    "email": "mark.riechers@pbswisconsin.org"
+  },
+  "metadata": {
+    "description": "",
+    "version": "1"
+  },
+  "plugins": [
+    {
+      "name": "pbswi-content",
+      "source": "./plugins/pbswi-content",
+      "sourceType": "path",
+      "description": ""
+    }
+  ]
+}
