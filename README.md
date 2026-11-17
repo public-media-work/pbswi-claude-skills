@@ -1,5 +1,8 @@
 # PBS Wisconsin — Claude Skills Marketplace
 
+> [!WARNING]
+> **Sunsetting. Don't add new work here.** This marketplace is being replaced, and it will stop receiving updates after the cutover. The `pbswi-content` and `process-graphics` plugins keep installing from here until then.
+
 Proven [Claude Code](https://claude.com/claude-code) skills for digital production work at PBS Wisconsin, vetted and tested by us and shared openly for the public media ecosystem.
 
 ## Add this marketplace
